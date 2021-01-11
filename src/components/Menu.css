@@ -1,0 +1,12 @@
+ul {
+    width: 200px;
+}
+
+li {
+    list-style: armenian;
+    margin-bottom: 10%;
+}
+
+li:first-child {
+    margin-top: 5%;
+}
